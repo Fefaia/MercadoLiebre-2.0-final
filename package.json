@@ -7,7 +7,9 @@
     "express": "^4.17.3"
   },
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "start": "node app.js"
+  },
   "author": "",
   "license": "ISC"
 }
